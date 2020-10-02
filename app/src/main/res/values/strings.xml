@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="show_send_button_text">Добавить</string>
+    <string name="show_send_button_begin_text">Отправить пост</string>
+    <string name="error_load_posts">Не удалось загрузить данные постов</string>
+    <string name="title">Заголовок поста</string>
+    <string name="text">Текст поста</string>
+</resources>
